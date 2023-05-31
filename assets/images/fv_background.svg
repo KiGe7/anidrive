@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.852" height="1043.049" viewBox="0 0 1920.852 1043.049">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbc517"/>
+      <stop offset="1" stop-color="#e51c21"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_44" data-name="Group 44" transform="translate(0.852 0.525)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="1920" height="1042"/>
+    <path id="Path_1" data-name="Path 1" d="M43.964,0,808.671.235,165.387,1042l-764.706-.235Z" transform="translate(604.887)" fill="url(#linear-gradient)"/>
+    <line id="Line_2" data-name="Line 2" x1="108" y2="175" transform="translate(489.5)" fill="none" stroke="#c0425f" stroke-width="2"/>
+    <line id="Line_4" data-name="Line 4" x1="251.444" y2="407.5" transform="translate(1242.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_5" data-name="Line 5" x1="224" y2="364.5" transform="translate(848 677.5)" fill="none" stroke="#d43952" stroke-width="2"/>
+    <line id="Line_3" data-name="Line 3" x1="190" y2="309" transform="translate(0 662.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <g id="Path_2" data-name="Path 2" transform="translate(1591.727 361)" fill="url(#linear-gradient)">
+      <path d="M 327.7732849121094 680.5 L -41.23361587524414 680.5 L 327.7732849121094 20.57769203186035 L 327.7732849121094 680.5 Z" stroke="none"/>
+      <path d="M 327.2732849121094 22.4964599609375 L -40.38113403320312 680 L 327.2732849121094 680 L 327.2732849121094 22.4964599609375 M 328.2732849121094 18.6590576171875 L 328.2732849121094 681 L -42.0860595703125 681 L 328.2732849121094 18.6590576171875 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
